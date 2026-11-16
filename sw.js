@@ -1,5 +1,5 @@
 "use strict";
-const LAGER = "side-9d6685a6";
+const LAGER = "side-fcf0cabc";
 const FORHAND = ["./","./icon.svg","./manifest.webmanifest","./pwa.js","./style.css"];
 
 self.addEventListener("install", (e) => {
